@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hou",
+				"hout_type"
+			],
+			[
+				"booki",
+				"booking_etl"
+			],
+			[
+				"start",
+				"startdate"
+			],
+			[
+				"pro",
+				"project_id"
+			],
+			[
+				"erdo",
+				"erdoganQuestions"
+			],
+			[
+				"Te",
+				"TeleBot"
+			],
+			[
+				"minus",
+				"minuscole"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "phone_app.html",
+			"settings":
+			{
+				"buffer_size": 17049,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 27,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "Sherpa"
+					},
+					"BwAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAACoAAABBd2Vzb21lIExhbmRpbmcgUGFnZSAtIEZyZWUgQm9vdHN0cmFwIFBhZ2UEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " App"
+					},
+					"BAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " Landinf"
+					},
+					"CAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAABQAAAAAAAAAFAAAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " Page"
+					},
+					"BQAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"right_delete",
+					null,
+					"AQAAABsAAAAAAAAAGwAAAAAAAAAoDQAAKGh0dHA6Ly9kZW1vcy5jcmVhdGl2ZS10aW0uY29tL2xhbmRpbmctcGFnZSkKCiFbYWx0IHRleHRdKGh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9jcmVhdGl2ZXRpbV9idWNrZXQvcHJvZHVjdHMvMjcvb3JpZ2luYWwvb3B0X2FscF90aHVtYm5haWwuanBnICJBd2Vzb21lIExhbmRpbmcgUGFnZSIpCgpCZSBhbWF6ZWQgYnkgdGhlIGJlc3QgbG9va2luZyBib290c3RyYXAgbGFuZGluZyBwYWdlIG9uIHRoZSB3ZWIhIEl0IGNvbWVzIHdpdGggNSBiZWF1dGlmdWwgYW5kIGJyaWdodCBjb2xvcnMuIFlvdXIgbmV3IGFwcCBkZXNlcnZlcyBhbiBhbWF6aW5nIHBhZ2UgdG8gc2hvdyBhbGwgb2YgaXRzIGZlYXR1cmVzLiBDbGVhciB2aXN1YWwsIGxpZ2h0IGNvbG91cnMgYW5kIGJlYXV0aWZ1bGx5IGFsaWduZWQgZWxlbWVudHMgLSB0aGV5IGFsbCB0cnkgdG8gbWFrZSB0aGUgdXNlcnMgYXdhcmUgb2YgeW91ciBncmVhdCBhcHAgZmVhdHVyZXMhCgpCdWlsZCBjdXN0b21lciBjb25maWRlbmNlIGJ5IGxpc3RpbmcgeW91ciB1c2VycyEgQW55b25lIHdobyBoYXMgdXNlZCB5b3VyIHNlcnZpY2UgYW5kIGhhcyBiZWVuIHBsZWFzZWQgd2l0aCBpdCBzaG91bGQgaGF2ZSBhIHBsYWNlIGhlcmUhIEZyb20gRm9ydHVuZSA1MDAgdG8gc3RhcnQtdXBzLCBhbGwgeW91ciBhcHAgZW50aHVzaWFzdHMgd2lsbCBiZSBnbGFkIHRvIGJlIGZlYXR1cmVkIGluIHRoaXMgc2VjdGlvbi4gTW9yZW92ZXIsIHVzZXJzIHdpbGwgZmVlbCBjb25maWRlbnQgc2VlaW5nIHNvbWVvbmUgdm91Y2hpbmcgZm9yIHlvdXIgcHJvZHVjdCEKCldpdGggYWxsIHRoZSBhcHBzIHRoYXQgdXNlcnMgbG92ZSEgTWFrZSBpdCBlYXN5IGZvciB1c2VycyB0byBzaGFyZSwgbGlrZSwgcG9zdCBhbmQgdHdlZXQgdGhlaXIgZmF2b3VyaXRlIHRoaW5ncyBmcm9tIHRoZSBhcHAuIE1ha2luZyB1c2Ugb2YgdGhpcmQgYXBwIGFzc2V0cyBzaG91bGQgYmUgYSBtdXN0IHdoZW4geW91IGRlc2lnbiB5b3VyIGFwcC4gQmUgc3VyZSB0byBsZXQgdXNlcnMga25vdyB0aGV5IGNvbnRpbnVlIHRvIHJlbWFpbiBjb25uZWN0ZWQgd2hpbGUgdXNpbmcgeW91ciBhcHAhCgpHcmFiIHRoaXMgZnJlZSBib290c3RyYXAgbGFuZGluZyBwYWdlIGFuZCBjcmVhdGUgYSBiZWF1dGlmdWwgd2Vic2l0ZS4KCiMjIExpbmtzOgoKKyBbTGl2ZSBQcmV2aWV3XShodHRwOi8vZGVtb3MuY3JlYXRpdmUtdGltLmNvbS9sYW5kaW5nLXBhZ2UpCgojIyBRdWljayBzdGFydAoKUXVpY2sgc3RhcnQgb3B0aW9uczoKCi0gW0Rvd25sb2FkIGZyb20gR2l0aHViXShodHRwczovL2dpdGh1Yi5jb20vY3JlYXRpdmV0aW1vZmZpY2lhbC9hd2Vzb21lLWxhbmRpbmctcGFnZS5naXQpLgotIFtEb3dubG9hZCBmcm9tIENyZWF0aXZlIFRpbV0oaHR0cHM6Ly93d3cuY3JlYXRpdmUtdGltLmNvbS9wcm9kdWN0L2F3ZXNvbWUtbGFuZGluZy1wYWdlKS4KLSBDbG9uZSB0aGUgcmVwbzogYGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vY3JlYXRpdmV0aW1vZmZpY2lhbC9hd2Vzb21lLWxhbmRpbmctcGFnZS5naXRgLgoKCiMjIyBXaGF0J3MgaW5jbHVkZWQKCldpdGhpbiB0aGUgZG93bmxvYWQgeW91J2xsIGZpbmQgdGhlIGZvbGxvd2luZyBkaXJlY3RvcmllcyBhbmQgZmlsZXM6CgpgYGAKYXdlc29tZV9sYW5kaW5nX3BhZ2UvCuKUnOKUgOKUgCBhc3NldHMvCnwgICDilJzilIDilIAgY3NzLwp8ICAgfCAgIOKUnOKUgOKUgCBib290c3RyYXAuY3NzCnwgICB8ICAg4pSc4pSA4pSAIGxhbmRpbmctcGFnZS5jc3MKfCAgIHwgICDilJTilIDilIAgcGUtaWNvbi03LXN0cm9rZS5jc3MKfCAgIOKUnOKUgOKUgCBqcy8KfCAgIHwgICDilJzilIDilIAgYXdlc29tZS1sYW5kaW5nLXBhZ2UuanMKfCAgIHwgICDilJzilIDilIAgYm9vdHN0cmFwLmpzCnwgICB8ICAg4pSc4pSA4pSAIGpxdWVyeS0xLjEwLjIuanMKfCAgIHwgICDilJzilIDilIAganF1ZXJ5LXVpLTEuMTAuNC5jdXN0b20ubWluLmpzCnwgICDilJzilIDilIAgZm9udHMvCnwgICDilJTilIDilIAgaW1nLwp8CuKUnOKUgOKUgCBpbmRleC5odG1sCuKUnOKUgOKUgCBwaG9uZV9hcHAuaHRtbArilJTilIDilIAgd2ViX2FwcC5odG1sCgpgYGAKCiMjIyBWZXJzaW9uIGxvZ3MKClYxLjAgMjMgRGVjICcxNCAtIE9yaWdpbmFsIFJlbGVhc2UKClYxLjEgNyBJYW4gJzE1IC0gQWRkZWQgNCBtb3JlIHRoZW1lIGNvbG9ycwotIGFkZGVkIHBhcmFsbGF4Ci0gYWRkZWQgbmV3IGNvbG9ycyBmb3IgYnV0dG9ucwotIGFkZGVkIG5ldyBjb2xvcnMgZm9yIGljb25zCgpWMS4yIDIwIEp1bCAnMTUgLSBBZGRlZCAyIHNob3djYXNlcwotIFNob3djYXNlIDEgLSBNdXNpYyBBcHAgUHJlc2VudGF0aW9uIFBhZ2UsIHZpZXcgaXQgaGVyZS4KLSBTaG93Y2FzZSAyIC0gQ3VzdG9tIFNjZW5lIFdlYiBQcmVzZW50YXRpb24gUGFnZSwgdmlldyBpdCBoZXJlLgotIGJ1Z2ZpeGluZwotIHBhcmFsbGF4IGltcHJvdmVtZW50cwotIGdyYWRpZW50cyBjaGFuZ2VzIGZvciBhIGJldHRlciBxdWFsaXR5CgpWMS4yLjEgMjUgRmViICcxNiAtIENoYW5nZSB0byBjb25mdXNpbmcgUFNEIHRleHQKLSB0ZXh0IGFkanVzdG1lbnRzCgpWMS4yLjIgMTAgRmViICcxNyBbY3VycmVudCB2ZXJzaW9uXQotIHN3aXRjaGVkIHRvIE1JVCBsaWNlbnNlLiAKCgojIyMgTGljZW5zZQoKLSBDb3B5cmlnaHQgMjAxNyBDcmVhdGl2ZSBUaW0gKGh0dHA6Ly93d3cuY3JlYXRpdmUtdGltLmNvbSkKLSBMaWNlbnNlZCB1bmRlciBNSVQgKGh0dHBzOi8vZ2l0aHViLmNvbS9jcmVhdGl2ZXRpbW9mZmljaWFsL2F3ZXNvbWUtbGFuZGluZy1wYWdlL2Jsb2IvbWFzdGVyL0xJQ0VOU0UubWQpCgoKIyMgVXNlZnVsIExpbmtzCgpNb3JlIHByb2R1Y3RzIGZyb20gQ3JlYXRpdmUgVGltOiA8aHR0cDovL3d3dy5jcmVhdGl2ZS10aW0uY29tL3Byb2R1Y3RzPgoKVHV0b3JpYWxzOiA8aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ1Z5VEc0c0N3LXJPdkI5b0hrelpEMXc+CgpGcmVlYmllczogPGh0dHA6Ly93d3cuY3JlYXRpdmUtdGltLmNvbS9wcm9kdWN0cz4KCkFmZmlsaWF0ZSBQcm9ncmFtIChlYXJuIG1vbmV5KTogPGh0dHA6Ly93d3cuY3JlYXRpdmUtdGltLmNvbS9hZmZpbGlhdGVzL25ldz4KClNvY2lhbCBNZWRpYToKClR3aXR0ZXI6IDxodHRwczovL3R3aXR0ZXIuY29tL0NyZWF0aXZlVGltPgoKRmFjZWJvb2s6IDxodHRwczovL3d3dy5mYWNlYm9vay5jb20vQ3JlYXRpdmVUaW0+CgpEcmliYmJsZTogPGh0dHBzOi8vZHJpYmJibGUuY29tL2NyZWF0aXZldGltPgoKR29vZ2xlKzogPGh0dHBzOi8vcGx1cy5nb29nbGUuY29tLytDcmVhdGl2ZXRpbVBhZ2U+CgpJbnN0YWdyYW06IDxodHRwczovL2luc3RhZ3JhbS5jb20vY3JlYXRpdmV0aW1vZmZpY2lhbD4",
+					"AQAAAAAAAAABAAAAGwAAAAAAAADpDAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/slagot22/landing-sherpa",
+		"/Users/slagot22/landing-sherpa/assets"
+	],
+	"file_history":
+	[
+		"/Users/slagot22/landing-sherpa/phone_app.html",
+		"/Users/slagot22/Downloads/awesome-landing-page-master/phone_app.html",
+		"/Users/slagot22/landing-sherpa/.git/config",
+		"/Users/slagot22/mongodb/docker-compose.yml",
+		"/Users/slagot22/mongodb/package.json",
+		"/Users/slagot22/mongodb/manypj.js",
+		"/Users/slagot22/mongodb/doker-compose.yml",
+		"/Users/slagot22/mongodb/out/expo.csv",
+		"/Users/slagot22/mongodb/out.csv",
+		"/Users/slagot22/Downloads/k-third-party-api-dev.postman_collection.json",
+		"/Users/slagot22/Documents/bdd email.yaml",
+		"/Users/slagot22/Downloads/vecteezy_included-in-this-pack-are-set-of-chef-hats-cartoon-icon_367100/Chef Hat_Vector_RON_02.svg",
+		"/Users/slagot22/Downloads/route_type_trad.svg",
+		"/Users/slagot22/Downloads/vecteezy_vector-illustration-of-mountaineer-climbing-up-rock-perfect-set-for-any-other-kind-of-design-layered-fully-editable-contains-of-ai10-eps10-and-svg-graphic-files_154003/climber silhouette_alpinist_EEZY_RMPL-01.svg",
+		"/Users/slagot22/Downloads/vecteezy_collection-of-wall-climbers-silhouette-with-various-forms-of-movement_126654/CLIMBING WALL 2.svg",
+		"/Users/slagot22/Desktop/HITOCOM051509",
+		"/Users/slagot22/Desktop/Firing",
+		"/Users/slagot22/Desktop/Frost : Ciabatta - Crudo + Caciotta, 50cl Acqua li",
+		"/Users/slagot22/Desktop/ForceEmail.gs",
+		"/Users/slagot22/Desktop/main.gs",
+		"/Users/slagot22/Desktop/ticket poste",
+		"/Users/slagot22/Downloads/html5up-spectral/index.html",
+		"/Users/slagot22/Downloads/links mapfre",
+		"/Users/slagot22/Desktop/poste 2 ",
+		"/Users/slagot22/Desktop/¡Hola! ",
+		"/Users/slagot22/Downloads/Carroll v1.0 - App Landing Page HTML Template/carrollapplanding-10/carroll/index-2.html",
+		"/Users/slagot22/Downloads/Carroll v1.0 - App Landing Page HTML Template/carrollapplanding-10/carroll/assets/css/style.css",
+		"/Users/slagot22/Downloads/Carroll v1.0 - App Landing Page HTML Template/carrollapplanding-10/carroll/assets/scss/style.css",
+		"/Users/slagot22/Downloads/Carroll v1.0 - App Landing Page HTML Template/carrollapplanding-10/Documentation/assets/js/scripts.js",
+		"/Users/slagot22/Downloads/html5up-helios/index.html",
+		"/Users/slagot22/Downloads/html5up-multiverse/index.html",
+		"/Users/slagot22/marta/test1/artist/_config.yml",
+		"/Users/slagot22/marta/test1/artist/Gemfile",
+		"/Users/slagot22/marta/test1/agency-jekyll-theme/README.md",
+		"/Users/slagot22/Desktop/mapfre2",
+		"/Users/slagot22/Desktop/mapfre",
+		"/Users/slagot22/gas/hello-world/src/components/header.js",
+		"/Users/slagot22/gas/hello-world/src/pages/about.js",
+		"/Users/slagot22/gas/hello-world/src/pages/contact.js",
+		"/Users/slagot22/gas/hello-world/src/pages/index.js",
+		"/Users/slagot22/gas/hello-world/src/pages/batteria de ipotesis.",
+		"/Users/slagot22/static/llama-static/Gemfile",
+		"/Users/slagot22/static/test-site/Gemfile",
+		"/Users/slagot22/static/test-site/index.html",
+		"/Users/slagot22/static/test-site/about.md",
+		"/Users/slagot22/static/test-site/_includes/navigation.html",
+		"/Users/slagot22/static/test-site/_layouts/default.html",
+		"/Users/slagot22/Documents/formu",
+		"/Users/slagot22/Documents/kluedo-premios",
+		"/etc/hosts",
+		"/Users/slagot22/licnese WBS",
+		"/Users/slagot22/k-bot-v1.js",
+		"/Users/slagot22/k-bot/Procfile",
+		"/Users/slagot22/k-bot/bot.js",
+		"/Users/slagot22/k-bot/.env",
+		"/Users/slagot22/hero_test/.env",
+		"/Users/slagot22/telegram-bot-webhook/Procfile",
+		"/Users/slagot22/telegram-bot-webhook/web.js",
+		"/Users/slagot22/telegram-bot-webhook/index.js",
+		"/Users/slagot22/telegram-bot-webhook/bot.js",
+		"/Users/slagot22/telegram-bot-webhook/.env",
+		"/Users/slagot22/kluedo/index.js",
+		"/Users/slagot22/hero_test/bot.js",
+		"/Users/slagot22/hero_test/web.js",
+		"/Users/slagot22/kluedo/.env",
+		"/Users/slagot22/newbot/package.json",
+		"/Users/slagot22/WebhookInfo",
+		"/Users/slagot22/newbot/index.js",
+		"/Users/slagot22/kluedo/package.json",
+		"/Users/slagot22/newbot/package",
+		"/Users/slagot22/newbot/.env",
+		"/Users/slagot22/telegram_bot/index.js",
+		"/Users/slagot22/kluedo/.gitignore",
+		"/Users/slagot22/test/index.js",
+		"/Users/slagot22/kluedo/now.json",
+		"/Users/slagot22/kluedo/now.js",
+		"/Users/slagot22/telegram_bot/now.json",
+		"/Users/slagot22/telegram_bot/package.json",
+		"/Users/slagot22/Desktop/Agile",
+		"/Users/slagot22/Downloads/cepsa-logo.svg",
+		"/Users/slagot22/Documents/chiusura conto bancoposta ",
+		"/Users/slagot22/Documents/balck stories 2",
+		"/Users/slagot22/Downloads/flat-timeline-infographic/Timeline 001.svg",
+		"/Users/slagot22/Documents/AutoHedge - Todo ",
+		"/Users/slagot22/Documents/Auto Hedge",
+		"/Users/slagot22/Documents/AutoHedge.- Notes",
+		"/Users/slagot22/Documents/gymkana",
+		"/Users/slagot22/Desktop/cost1.csv",
+		"/Users/slagot22/Desktop/cost2.csv",
+		"/Users/slagot22/Desktop/cost3.csv",
+		"/Users/slagot22/Downloads/netflix-hangouts/background.js",
+		"/Users/slagot22/Downloads/backlog.svg",
+		"/Users/slagot22/Documents/Wiki/guide/docs/wiki/agile/agile_tools/meeting_cards.md",
+		"/Users/slagot22/Documents/Wiki/guide/mkdocs.yml",
+		"/Users/slagot22/Documents/Wiki/guide/requirements.txt",
+		"/Users/Shared/Previously Relocated Items/Security/anaconda3/pkgs/ipython-7.6.1-py37h39e3cac_0/lib/python3.7/site-packages/IPython/core/magics/basic.py",
+		"/Users/slagot22/Desktop/XP.txt",
+		"/Users/slagot22/Desktop/Nico - feedback . txt ",
+		"/Users/slagot22/Desktop/PSK ",
+		"/Work Item Age is a leading indicator for the lengt",
+		"/anaconda3/conda-meta/cycler-0.10.0-py37_0.json",
+		"/Users/slagot22/Desktop/Sandbox en Azure.eml",
+		"/Users/slagot22/Desktop/RE_ Fuera de Ventana_ Autorización de Despliegue en Producción de Microservicios personalizacion Azure - METRACKM,MEONPROM,MEOPPROM,MERPEONM,MERECOMM,MERCOMPM,MEPROREM,MEMODELM,MEMODPNM,MEMODPPM,MEBUCONM,METRAMOD, MEPAFEED,MECOINFA,MALORESP.eml",
+		"/Users/slagot22/Downloads/tor/Become an AWS Certified Cloud Practitioner 2019/Become an AWS Certified Cloud Practitioner 2019/[Tutsgalaxy.com] - Become an AWS Certified Cloud Practitioner 2019/9. Test your knowledge/1. Practice Questions.html",
+		"/Users/slagot22/Downloads/sandbox oysho (1).msg",
+		"/Users/slagot22/Documents/PSK ",
+		"/Users/slagot22/Desktop/export-agile.json",
+		"/Users/slagot22/Desktop/agileV2.json",
+		"/Users/slagot22/Desktop/logo-dark-2017.svg",
+		"/Users/slagot22/Desktop/Hi Rebels "
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/slagot22/landing-sherpa"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "phone_app.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
