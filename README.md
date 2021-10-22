@@ -5,11 +5,11 @@
 	- Trova il miglior compagno per te.
 	- Facilità di uso.
 
-*- Trova il miglior compagno per te.*
+- *Trova il miglior compagno per te.*
 	- Review
 	- Badge
 	- Skill
 
-*- Facilità di uso.*
+- *Facilità di uso.*
 	- Mappa 
 	- Dettagli di attivitá: tutto lo scroll diviso in due immagini.
