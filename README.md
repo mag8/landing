@@ -1,6 +1,6 @@
 # [Sherpa App - Landing page]
 
-- Sostituire immagine Hero, inserire Mappa
+- ~~Sostituire immagine Hero, inserire Mappa~~
 - Creare due sezioni 
 	- Trova il miglior compagno per te.
 	- Facilità di uso.
